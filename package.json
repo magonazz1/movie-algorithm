@@ -7,7 +7,6 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "preinstall": "npm config set optional false",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
